@@ -1,10 +1,9 @@
 # Moon Phases Variable Font
 
 ![Animated example.](https://cdn.glitch.me/35ebd99c-f16c-4979-af7e-8f5646b71768%2Fmoonloop.gif?v=1636216232630)
+[Fun animated example](https://moon-phases-variable.glitch.me/)
 
 ## An open source and free variable Moon Phases font.
-
-[Fun animated example](https://moon-phases-variable.glitch.me/)
 
 ### Two axes are currently provided
 1. Phase 'phas' is the moon phase. Expressed as a value of 100-900.
