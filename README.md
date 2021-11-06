@@ -1,10 +1,14 @@
 # Moon Phases Variable Font
 
+![Animated example.](https://cdn.glitch.me/35ebd99c-f16c-4979-af7e-8f5646b71768%2Fmoonloop.gif?v=1636216232630)
+
 ## An open source and free variable Moon Phases font.
+
+[Fun animated example](https://moon-phases-variable.glitch.me/)
 
 ### Two axes are currently provided
 1. Phase 'phas' is the moon phase. Expressed as a value of 100-900.
-2. Weight 'wght' is the outline thickness of the moon icon. Can be matched to your favorite font!
+2. Weight 'wght' is the outline thickness of the moon icon. Can be matched to your favorite font! Expressed as a value of 4-80.
 
 ## Phase Chart
 
@@ -27,4 +31,4 @@ You can access the magic moon glyph by typing an upper or lowercase "M".
 ---
 
 ### To-do
-1. Add a rotation axis. 
+1. Add a rotation axis.
