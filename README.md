@@ -11,5 +11,12 @@
 
 | Moon Phase  | 'phas' Axis Value |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Full Moon  | 100  |
+| Waning Gibbous  | 200  |
+| Third Quarter  | 300  |
+| Waning Crescent  | 400  |
+| New Moon  | 500  |
+| Waxing Crescent  | 600  |
+| First Quarter  | 700  |
+| Waxing Gibbous  | 800  |
+| Full Moon (Back around again!)  | 900  |
