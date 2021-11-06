@@ -1,8 +1,6 @@
 # Moon Phases Variable Font
 
-## Version .1 
-
-This is an open source and free variable Moon Phases font. 
+## An open source and free variable Moon Phases font. 
 
 ### Two axes are currently provided 
 1. Phase 'phas' is the moon phase. Expressed as a value of 100-900.
@@ -10,3 +8,6 @@ This is an open source and free variable Moon Phases font.
 
 ### To-do
 1. Add a rotation axis. 
+
+| Moon Phase | Value |
+| Full Moon | 100 |
