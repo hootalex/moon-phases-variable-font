@@ -9,5 +9,7 @@
 ### To-do
 1. Add a rotation axis. 
 
-| Moon Phase | Value |
-| Full Moon | 100 |
+| Moon Phase  | 'phas' Axis Value |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
