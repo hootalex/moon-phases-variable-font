@@ -32,3 +32,4 @@ You can access the magic moon glyph by typing an upper or lowercase "M"
 
 ### To-do
 1. Add a rotation axis
+2. Maybe change the axis value ranges? Do the current ones make sense to anyone?
